@@ -5,3 +5,12 @@
 import { useState } from "react";
 import ".to-do-list-app.css";
 // src/to-do-list-app.js
+function App() {
+    reutrn (
+        <div className="App">
+            <h>My To-Do List</h>
+        </div>
+    );
+}
+
+export default App;
