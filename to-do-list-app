@@ -1,3 +1,7 @@
 // remember to open a terminal inside VS Code
 
 // needed files: app.js, index.js, and app.css
+
+import { useState } from "react";
+import ".to-do-list-app.css";
+// src/to-do-list-app.js
